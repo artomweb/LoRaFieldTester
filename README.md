@@ -6,6 +6,8 @@ Two laptops with MKRs are connected to this site. A test is started and the webs
 
 Both the Arduinos run the same code!
 
+I experimented with allowing a phone to join the site to contribute GPS data for the pong device.
+
 Using:
 
 - Tailwind + DaisyUI
