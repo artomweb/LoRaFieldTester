@@ -1,6 +1,6 @@
 # LoRa field tester
 
-This is a automatic range tester for the Arduino MKR WAN 1310.
+This is a automatic range tester for the Arduino MKR WAN 1310. Developed as part of a University project for range testing a model Mars rover.
 
 Two laptops with MKRs are connected to this site. A test is started and the webserver sets the parameters on each device and sends a packet back and forth. The test results are populated into the table.
 
